@@ -24,6 +24,7 @@ function App() {
               <div className="one-half column">
                 <Formulario />
               </div>
+              {/* van el listado de gastos */}
               <div className="one-half column">2</div>
             </div>
           )}
